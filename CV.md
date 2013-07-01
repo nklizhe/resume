@@ -1,7 +1,7 @@
 # Tom Li
 
-__Email__: nklizhe@gmail.com
-__LinkedIn__: http://www.linkedin.com/in/nklizhe
+* __Email__: nklizhe@gmail.com
+* __LinkedIn__: http://www.linkedin.com/in/nklizhe
 
 ## Summary
 
@@ -21,7 +21,7 @@ Enjoyed every moment working with amazing people and making great products (http
 
 #### Infocast Ltd., Senior Analyst Programmer / Team Leader (Sep 2006 ~ May 2010)
 
-Team leader of 4 person team responsible for creating a new product providing real-time stock market data to end-users.
+Team leader of a 4-person team responsible for creating a new product providing real-time stock market data to end-users.
 
 * Invented a JavaScript MVC/Templating framework and use it in a new product, when every other competitors are still relying Flash/Java Applet for their browser based products. (HTML/Javascript/jQuery/CSS/JSP/Java/Tomcat)
 * Implemented a multimedia display system for BEA (Bank of East Asia) and other bank clients. (C/C++/JSP/Tomcat/MySQL/Windows/MFC)
@@ -47,3 +47,15 @@ Responsible for developing hardware drivers in C/C++/MIPS Assembly.
 * Learned MIPS Assembly in one week then start using it developed a driver for GamePad.
 * Implemented driver for USB 1.0 device in C
 * Implemented a graphics card driver in C/OpenGL/Linux
+
+## Skills
+
+* C/C++ - 20+ years. _I started playing them since middle school_
+* HTML/Javascript/CSS - 10+ years. _I've created Javascript frameworks just for fun_
+* Objective-C/Cocoa/iOS - 3+ years. _Created several apps with them,_
+* SQL/Oracle/MySQL - 10+ years. _Oracle Certified Professional_
+* PHP/Python/Perl - 3+ years. _Used them in several projects_
+* Java/JSP/Tomcat - 3+ years.
+
+
+
