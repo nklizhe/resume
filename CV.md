@@ -1,13 +1,14 @@
 # Tom Li
 
 * __Email__: nklizhe@gmail.com
+* __Twitter__: [@nklizhe](https://twitter.com/nklizhe)
 * __LinkedIn__: http://www.linkedin.com/in/nklizhe
 
 ## Summary
 
 Full stack software engineer with over 20 years experience. Passionate in making great products. 
 
-Solid experience in a broad range of areas in software development, from server-side programming to client-side application development, from embedded system to database application, from website/webservice to mobile app development. Experienced and excelled at team leadership, project/product management and communication with cross-functional teams.
+Solid experience in a broad range of areas in software development, from server-side programming to client-side application development, from embedded system to database application, from website/web service to mobile app development. Experienced and excelled at team leadership, project/product management and communication with cross-functional teams.
 
 Knowledgeable and highly interested in product design, UI/UX design, usability and marketing. Hold a master degree in Multimedia and Entertainment Technology, School of Design, the Hong Kong Polytechnic University.
 
@@ -19,11 +20,11 @@ Enjoying every moment working with amazing people and making great products (htt
 
 * Created QVIVO for Mac. (C++/Objective-C/Cocoa/OS X/HTML/Javascript)
 * Designed and implemented an Objective-C framework for OS X/iOS products. (Objective-C)
-* Implmented more than half of the foundation libraries for QVIVO desktop apps. (C++/Boost/Windows/Mac)
+* Implemented more than half of the foundation libraries for QVIVO desktop apps. (C++/Boost/Windows/Mac)
 
 #### Infocast Ltd., Senior Analyst Programmer / Team Leader (Sep 2006 ~ May 2010)
 
-Lead a small team creating new product which providing real-time stock market data to end-users. Using agile development process, we succesfully delivered the product from idea to production in just 6 months, and far exceeded the expectation of executives of the company.
+Lead a small team creating new product which providing real-time stock market data to end-users. Using agile development process, we successfully delivered the product from idea to production in just 6 months, and far exceeded the expectation of executives of the company.
 
 * Invented a JavaScript MVC/Templating framework and use it in a new product, when other competitors are still relying Flash/Java Applet for their browser based products. (HTML/Javascript/jQuery/CSS/JSP/Java/Tomcat)
 * Implemented a multimedia display system for BEA (Bank of East Asia) and other bank clients. (C/C++/JSP/Tomcat/MySQL/Windows/MFC)
@@ -50,10 +51,10 @@ Responsible for developing hardware drivers for a linux-based embedded system in
 * Implemented driver for USB 1.0 device in C.
 * Implemented a graphics card driver in C/OpenGL/Linux.
 
-### Multimedia Entertainment and Technology, School of Design, the Hong Kong Polytechnic University (Sep 2006 ~ June 2009)
+#### Multimedia Entertainment and Technology, School of Design, the Hong Kong Polytechnic University (Sep 2006 ~ June 2009)
 
 * Invented a javascript game engine using HTML5 canvas. (Javascript/HTML/CSS)
-* Done varies projects related to game design/development, project management, product design and marketing.
+* Done various projects related to game design/development, project management, product design and marketing.
 * Entrepreneurship Club.
 
 ## Skills
