@@ -18,6 +18,7 @@ Knowledgeable and highly interested in product design, UI/UX design, usability a
 
 Enjoying every moment working with amazing people and making great products (https://www.qvivo.com). Deeply involved in almost all aspects of software architecting and engineering. Doing whatever I can to move QVIVO forward and successful.
 
+* Created and published [QVIVO Roku Channel](http://blog.qvivo.com/post/56408363444/qvivo-roku-beta-channel-qvivo-has-just-launched-a) in just 2.5 weeks (Roku/BrightScript)
 * Created QVIVO for Mac. (C++/Objective-C/Cocoa/OS X/HTML/Javascript)
 * Designed and implemented an Objective-C framework for OS X/iOS products. (Objective-C)
 * Implemented more than half of the foundation libraries for QVIVO desktop apps. (C++/Boost/Windows/Mac)
