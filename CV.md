@@ -14,11 +14,17 @@ Knowledgeable and highly interested in product design, UI/UX design, usability a
 
 ## Experience
 
-#### QVIVO Limited, Software Engineer (May 2010 ~ Present)
+#### Inspirify Limited, Founder / Chief Architect (Dec 2013 ~ Present)
 
-Enjoying every moment working with amazing people and making great products (https://www.qvivo.com). Deeply involved in almost all aspects of software architecting and engineering. Doing whatever I can to move QVIVO forward and successful.
+[Inspirify](http://www.insprfy.com) is a software company dedicates in making great products. I started this company to help people bring their ideas to life. And making more cool products. ;-)
 
-* Created and published [QVIVO Roku Channel](http://blog.qvivo.com/post/56408363444/qvivo-roku-beta-channel-qvivo-has-just-launched-a) in just 2.5 weeks (Roku/BrightScript)
+
+#### QVIVO Limited, Software Engineer (May 2010 ~ Nov 2013)
+
+Enjoyed every moment working with amazing people and making great products (https://www.qvivo.com). Deeply involved in almost all aspects of software architecting and engineering. And doing whatever I can to move QVIVO forward and successful.
+
+* Created QVIVO [Chromecast](http://www.google.com/intl/zh-CN/chrome/devices/chromecast/) App and add chromecast support to QVIVO iOS Apps
+* Created and published [QVIVO Roku Channel](http://blog.qvivo.com/post/56408363444/qvivo-roku-beta-channel-qvivo-has-just-launched-a) (Roku/BrightScript)
 * Created QVIVO for Mac. (C++/Objective-C/Cocoa/OS X/HTML/Javascript)
 * Designed and implemented an Objective-C framework for OS X/iOS products. (Objective-C)
 * Implemented more than half of the foundation libraries for QVIVO desktop apps. (C++/Boost/Windows/Mac)
@@ -30,7 +36,7 @@ Lead a small team creating new product which providing real-time stock market da
 * Invented a JavaScript MVC/Templating framework and use it in a new product, when other competitors are still relying Flash/Java Applet for their browser based products. (HTML/Javascript/jQuery/CSS/JSP/Java/Tomcat)
 * Implemented a multimedia display system for BEA (Bank of East Asia) and other bank clients. (C/C++/JSP/Tomcat/MySQL/Windows/MFC)
 * Implemented a backend system for retrieving Hang Seng Index (HSI) and other market information. (C++)
-* Implemented an in-memory database for backend systems. (C++)
+* Designed and implemented an in-memory database for realtime backend systems. (C++)
 
 #### CITIC Telecom 1616 Ltd. Analyst Programmer (Oct 2002 ~ Sep 2006)
 
@@ -60,13 +66,15 @@ Responsible for developing hardware drivers for a linux-based embedded system in
 
 ## Skills
 
-* C/C++ - 20+ years. _I started playing them since middle school_.
-* HTML/Javascript/CSS - 10+ years. _I've created Javascript frameworks just for fun_.
-* Objective-C/Cocoa/iOS - 3+ years. _Created several apps with them_.
-* SQL/Oracle/MySQL - 10+ years. _Oracle Certified Professional_.
-* PHP/Python/Perl - 3+ years. _Used them in several projects_.
-* Java/JSP/Tomcat - 3+ years.
-* Linux/Unix/Shell Script - 13+ years.
+* C/C++ - 20+ years. _(I started playing them since middle school)_
+* HTML/Javascript/CSS - 10+ years. _(I've created Javascript frameworks just for fun)_
+* Objective-C/Cocoa/iOS - 3+ years. _(Created several apps with them)_
+* SQL/Oracle/MySQL - 10+ years. _(Oracle Certified Professional)_
+* PHP/Python/Perl - 3+ years. _(Used them in several projects)_
+* Java/JSP/Tomcat - 3+ years. _(Generally I don't like them very much, but I can use them professionally)_
+* Linux/Unix/Shell Script - 13+ years. _(Used them almost every day)_
+* NodeJS / EmberJS / jQuery / MongoDB / NoSQL. _(I'm their fans) ;-)_
+* Product design / product management / UX design. _(I'm passionate in them, learning everyday)_
 
 
 
