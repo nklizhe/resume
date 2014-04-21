@@ -1,8 +1,8 @@
 # Tom Li
 
-* __Email__: nklizhe@gmail.com
+* __Email__: [nklizhe@gmail.com](mailto:nklizhe@gmail.com)
 * __Twitter__: [@nklizhe](https://twitter.com/nklizhe)
-* __LinkedIn__: http://www.linkedin.com/in/nklizhe
+* __LinkedIn__: [http://www.linkedin.com/in/nklizhe](http://www.linkedin.com/in/nklizhe)
 
 ## Summary
 
@@ -14,20 +14,23 @@ Knowledgeable and highly interested in product design, UI/UX design, usability a
 
 ## Experience
 
-#### Inspirify Limited, Founder / Chief Architect (Dec 2013 ~ Present)
+#### A Stealth-mode Startup, Technical Consultant (Jan 2014 ~ April 2014)
 
-[Inspirify](http://www.insprfy.com) is a software company dedicates in making great products. I started this company to help people bring their ideas to life. And making more cool products. ;-)
+Helping a startup building their first product in mobile/traval/marketin/social space. As a technical consultant and only coder of the team, I've architected and implemented the whole backend and REST api (PHP+MySQL) and created the iOS app from scratch.
 
+#### Inspirify Limited, Founder & CEO (Dec 2013 ~ Present)
+
+[Inspirify](http://www.insprfy.com) building next generation gaming platform in the cloud.
 
 #### QVIVO Limited, Software Engineer (May 2010 ~ Nov 2013)
 
 Enjoyed every moment working with amazing people and making great products (https://www.qvivo.com). Deeply involved in almost all aspects of software architecting and engineering. And doing whatever I can to move QVIVO forward and successful.
 
+* Created QVIVO OS X/iOS apps. (C++/Objective-C/Cocoa/OS X/HTML/Javascript)
 * Created QVIVO [Chromecast](http://www.google.com/intl/zh-CN/chrome/devices/chromecast/) App and add chromecast support to QVIVO iOS Apps
 * Created and published [QVIVO Roku Channel](http://blog.qvivo.com/post/56408363444/qvivo-roku-beta-channel-qvivo-has-just-launched-a) (Roku/BrightScript)
-* Created QVIVO for Mac. (C++/Objective-C/Cocoa/OS X/HTML/Javascript)
 * Designed and implemented an Objective-C framework for OS X/iOS products. (Objective-C)
-* Implemented more than half of the foundation libraries for QVIVO desktop apps. (C++/Boost/Windows/Mac)
+* Designed and implemented over half of the foundation libraries for QVIVO apps. (Crossplatform/C++/Boost/Windows/Mac)
 
 #### Infocast Ltd., Senior Analyst Programmer / Team Leader (Sep 2006 ~ May 2010)
 
@@ -66,15 +69,15 @@ Responsible for developing hardware drivers for a linux-based embedded system in
 
 ## Skills
 
-* C/C++ - 20+ years. _(I started playing them since middle school)_
-* HTML/Javascript/CSS - 10+ years. _(I've created Javascript frameworks just for fun)_
-* Objective-C/Cocoa/iOS - 3+ years. _(Created several apps with them)_
+* C/C++ - 20+ years. _(Have been using them since middle school)_
+* Objective-C/Cocoa/iOS - 4+ years. _(Created several apps with them)_
+* Go - _(Learning)_
+* HTML/Javascript/CSS - 10+ years. _(Built a javascript-based game engine (just for fun) and a MVC framework)_
 * SQL/Oracle/MySQL - 10+ years. _(Oracle Certified Professional)_
 * PHP/Python/Perl - 3+ years. _(Used them in several projects)_
-* Java/JSP/Tomcat - 3+ years. _(Generally I don't like them very much, but I can use them professionally)_
 * Linux/Unix/Shell Script - 13+ years. _(Used them almost every day)_
-* NodeJS / EmberJS / jQuery / MongoDB / NoSQL. _(I'm their fans) ;-)_
-* Product design / product management / UX design. _(I'm passionate in them, learning everyday)_
+* NodeJS / EmberJS / jQuery - _(I'm their fans) ;-)_
+* Product design / product management / UX design - _(I'm passionate in them, learning everyday)_
 
 
 
