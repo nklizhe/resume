@@ -3,6 +3,8 @@
 * __Email__: [nklizhe@gmail.com](mailto:nklizhe@gmail.com)
 * __Twitter__: [@nklizhe](https://twitter.com/nklizhe)
 * __LinkedIn__: [http://www.linkedin.com/in/nklizhe](http://www.linkedin.com/in/nklizhe)
+* __Blog__: [https://medium.com/@nklizhe](https://medium.com/@nklizhe)
+* __Quora__: [http://www.quora.com/Tom-Li-2](http://www.quora.com/Tom-Li-2)
 
 ## Summary
 
@@ -14,15 +16,15 @@ Knowledgeable and highly interested in product design, UI/UX design, usability a
 
 ## Experience
 
-#### A Stealth-mode Startup, Technical Consultant (Jan 2014 ~ April 2014)
+### Creator of http://gofiddle.net (May 2014)
+
+Write, test and share your [Go](http://golang.org) code anywhere.
+
+#### A Stealth-Mode Startup, Technical Consultant (Jan 2014 ~ April 2014)
 
 Helping a startup building their first product in mobile/traval/marketin/social space. As a technical consultant and only coder of the team, I've architected and implemented the whole backend and REST api (PHP+MySQL) and created the iOS app from scratch.
 
-#### Inspirify Limited, Founder & CEO (Dec 2013 ~ Present)
-
-[Inspirify](http://www.insprfy.com) building next generation gaming platform in the cloud.
-
-#### QVIVO Limited, Software Engineer (May 2010 ~ Nov 2013)
+#### QVIVO Limited, Software Engineer (May 2010 ~ July 2013)
 
 Enjoyed every moment working with amazing people and making great products (https://www.qvivo.com). Deeply involved in almost all aspects of software architecting and engineering. And doing whatever I can to move QVIVO forward and successful.
 
